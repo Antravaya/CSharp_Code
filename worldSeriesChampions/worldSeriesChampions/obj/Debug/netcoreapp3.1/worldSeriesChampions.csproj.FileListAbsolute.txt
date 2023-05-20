@@ -1,0 +1,16 @@
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\bin\Debug\netcoreapp3.1\worldSeriesChampions.exe
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\bin\Debug\netcoreapp3.1\worldSeriesChampions.deps.json
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\bin\Debug\netcoreapp3.1\worldSeriesChampions.runtimeconfig.json
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\bin\Debug\netcoreapp3.1\worldSeriesChampions.runtimeconfig.dev.json
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\bin\Debug\netcoreapp3.1\worldSeriesChampions.dll
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\bin\Debug\netcoreapp3.1\worldSeriesChampions.pdb
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\obj\Debug\netcoreapp3.1\worldSeriesChampions.csproj.AssemblyReference.cache
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\obj\Debug\netcoreapp3.1\worldSeriesChampions.Form1.resources
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\obj\Debug\netcoreapp3.1\worldSeriesChampions.csproj.GenerateResource.cache
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\obj\Debug\netcoreapp3.1\worldSeriesChampions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\obj\Debug\netcoreapp3.1\worldSeriesChampions.AssemblyInfoInputs.cache
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\obj\Debug\netcoreapp3.1\worldSeriesChampions.AssemblyInfo.cs
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\obj\Debug\netcoreapp3.1\worldSeriesChampions.csproj.CoreCompileInputs.cache
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\obj\Debug\netcoreapp3.1\worldSeriesChampions.dll
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\obj\Debug\netcoreapp3.1\worldSeriesChampions.pdb
+C:\Users\Antravaya Couch\source\repos\worldSeriesChampions\worldSeriesChampions\obj\Debug\netcoreapp3.1\worldSeriesChampions.genruntimeconfig.cache
