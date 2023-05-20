@@ -1,0 +1,10 @@
+C:\Users\jackd\source\repos\Kg to Lbs\Kg to Lbs\bin\Debug\Kg to Lbs.exe.config
+C:\Users\jackd\source\repos\Kg to Lbs\Kg to Lbs\bin\Debug\Kg to Lbs.exe
+C:\Users\jackd\source\repos\Kg to Lbs\Kg to Lbs\bin\Debug\Kg to Lbs.pdb
+C:\Users\jackd\source\repos\Kg to Lbs\Kg to Lbs\obj\Debug\Kg to Lbs.csproj.AssemblyReference.cache
+C:\Users\jackd\source\repos\Kg to Lbs\Kg to Lbs\obj\Debug\Kg_to_Lbs.Form1.resources
+C:\Users\jackd\source\repos\Kg to Lbs\Kg to Lbs\obj\Debug\Kg_to_Lbs.Properties.Resources.resources
+C:\Users\jackd\source\repos\Kg to Lbs\Kg to Lbs\obj\Debug\Kg to Lbs.csproj.GenerateResource.cache
+C:\Users\jackd\source\repos\Kg to Lbs\Kg to Lbs\obj\Debug\Kg to Lbs.csproj.CoreCompileInputs.cache
+C:\Users\jackd\source\repos\Kg to Lbs\Kg to Lbs\obj\Debug\Kg to Lbs.exe
+C:\Users\jackd\source\repos\Kg to Lbs\Kg to Lbs\obj\Debug\Kg to Lbs.pdb
