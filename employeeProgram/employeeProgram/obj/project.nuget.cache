@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U7+Mva/7t5XZocUzDVOem8kvFDVAj/aZ0g4x7lmYSINTGEPcJdyzAVM0q3/dIoDrRs9rQBtwDdDo0iABfJcpBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Antravaya Couch\\source\\repos\\employeeProgram\\employeeProgram\\employeeProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antravaya Couch\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Antravaya Couch\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Antravaya Couch\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Antravaya Couch\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\obj\Debug\netcoreapp3.1\employeeProgram.csproj.AssemblyReference.cache
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\obj\Debug\netcoreapp3.1\employeeProgram.Form1.resources
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\obj\Debug\netcoreapp3.1\employeeProgram.csproj.GenerateResource.cache
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\obj\Debug\netcoreapp3.1\employeeProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\obj\Debug\netcoreapp3.1\employeeProgram.AssemblyInfoInputs.cache
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\obj\Debug\netcoreapp3.1\employeeProgram.AssemblyInfo.cs
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\obj\Debug\netcoreapp3.1\employeeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\bin\Debug\netcoreapp3.1\employeeProgram.exe
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\bin\Debug\netcoreapp3.1\employeeProgram.deps.json
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\bin\Debug\netcoreapp3.1\employeeProgram.runtimeconfig.json
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\bin\Debug\netcoreapp3.1\employeeProgram.runtimeconfig.dev.json
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\bin\Debug\netcoreapp3.1\employeeProgram.dll
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\bin\Debug\netcoreapp3.1\employeeProgram.pdb
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\obj\Debug\netcoreapp3.1\employeeProgram.dll
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\obj\Debug\netcoreapp3.1\employeeProgram.pdb
+C:\Users\Antravaya Couch\source\repos\employeeProgram\employeeProgram\obj\Debug\netcoreapp3.1\employeeProgram.genruntimeconfig.cache

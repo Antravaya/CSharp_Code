@@ -1,0 +1,16 @@
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\bin\Debug\netcoreapp3.1\GreaterThanNumbers.exe
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\bin\Debug\netcoreapp3.1\GreaterThanNumbers.deps.json
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\bin\Debug\netcoreapp3.1\GreaterThanNumbers.runtimeconfig.json
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\bin\Debug\netcoreapp3.1\GreaterThanNumbers.runtimeconfig.dev.json
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\bin\Debug\netcoreapp3.1\GreaterThanNumbers.dll
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\bin\Debug\netcoreapp3.1\GreaterThanNumbers.pdb
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\obj\Debug\netcoreapp3.1\GreaterThanNumbers.csproj.AssemblyReference.cache
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\obj\Debug\netcoreapp3.1\GreaterThanNumbers.Form1.resources
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\obj\Debug\netcoreapp3.1\GreaterThanNumbers.csproj.GenerateResource.cache
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\obj\Debug\netcoreapp3.1\GreaterThanNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\obj\Debug\netcoreapp3.1\GreaterThanNumbers.AssemblyInfoInputs.cache
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\obj\Debug\netcoreapp3.1\GreaterThanNumbers.AssemblyInfo.cs
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\obj\Debug\netcoreapp3.1\GreaterThanNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\obj\Debug\netcoreapp3.1\GreaterThanNumbers.dll
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\obj\Debug\netcoreapp3.1\GreaterThanNumbers.pdb
+C:\Users\Antravaya Couch\source\repos\GreaterThanNumbers\GreaterThanNumbers\obj\Debug\netcoreapp3.1\GreaterThanNumbers.genruntimeconfig.cache
