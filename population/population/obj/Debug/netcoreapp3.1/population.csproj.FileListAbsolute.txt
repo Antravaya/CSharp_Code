@@ -1,0 +1,16 @@
+C:\Users\Antravaya Couch\source\repos\population\population\bin\Debug\netcoreapp3.1\population.exe
+C:\Users\Antravaya Couch\source\repos\population\population\bin\Debug\netcoreapp3.1\population.deps.json
+C:\Users\Antravaya Couch\source\repos\population\population\bin\Debug\netcoreapp3.1\population.runtimeconfig.json
+C:\Users\Antravaya Couch\source\repos\population\population\bin\Debug\netcoreapp3.1\population.runtimeconfig.dev.json
+C:\Users\Antravaya Couch\source\repos\population\population\bin\Debug\netcoreapp3.1\population.dll
+C:\Users\Antravaya Couch\source\repos\population\population\bin\Debug\netcoreapp3.1\population.pdb
+C:\Users\Antravaya Couch\source\repos\population\population\obj\Debug\netcoreapp3.1\population.csproj.AssemblyReference.cache
+C:\Users\Antravaya Couch\source\repos\population\population\obj\Debug\netcoreapp3.1\population.Form1.resources
+C:\Users\Antravaya Couch\source\repos\population\population\obj\Debug\netcoreapp3.1\population.csproj.GenerateResource.cache
+C:\Users\Antravaya Couch\source\repos\population\population\obj\Debug\netcoreapp3.1\population.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antravaya Couch\source\repos\population\population\obj\Debug\netcoreapp3.1\population.AssemblyInfoInputs.cache
+C:\Users\Antravaya Couch\source\repos\population\population\obj\Debug\netcoreapp3.1\population.AssemblyInfo.cs
+C:\Users\Antravaya Couch\source\repos\population\population\obj\Debug\netcoreapp3.1\population.csproj.CoreCompileInputs.cache
+C:\Users\Antravaya Couch\source\repos\population\population\obj\Debug\netcoreapp3.1\population.dll
+C:\Users\Antravaya Couch\source\repos\population\population\obj\Debug\netcoreapp3.1\population.pdb
+C:\Users\Antravaya Couch\source\repos\population\population\obj\Debug\netcoreapp3.1\population.genruntimeconfig.cache
