@@ -1,0 +1,10 @@
+E:\Game\Programming_Code\Property_Tax\Property_Tax\bin\Debug\Property_Tax.exe.config
+E:\Game\Programming_Code\Property_Tax\Property_Tax\bin\Debug\Property_Tax.exe
+E:\Game\Programming_Code\Property_Tax\Property_Tax\bin\Debug\Property_Tax.pdb
+E:\Game\Programming_Code\Property_Tax\Property_Tax\obj\Debug\Property_Tax.csproj.AssemblyReference.cache
+E:\Game\Programming_Code\Property_Tax\Property_Tax\obj\Debug\Property_Tax.Form1.resources
+E:\Game\Programming_Code\Property_Tax\Property_Tax\obj\Debug\Property_Tax.Properties.Resources.resources
+E:\Game\Programming_Code\Property_Tax\Property_Tax\obj\Debug\Property_Tax.csproj.GenerateResource.cache
+E:\Game\Programming_Code\Property_Tax\Property_Tax\obj\Debug\Property_Tax.csproj.CoreCompileInputs.cache
+E:\Game\Programming_Code\Property_Tax\Property_Tax\obj\Debug\Property_Tax.exe
+E:\Game\Programming_Code\Property_Tax\Property_Tax\obj\Debug\Property_Tax.pdb
