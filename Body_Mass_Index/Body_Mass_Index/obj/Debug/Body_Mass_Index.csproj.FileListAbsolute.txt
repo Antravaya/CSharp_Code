@@ -1,0 +1,10 @@
+E:\Game\Programming_Code\Body_Mass_Index\Body_Mass_Index\bin\Debug\Body_Mass_Index.exe.config
+E:\Game\Programming_Code\Body_Mass_Index\Body_Mass_Index\bin\Debug\Body_Mass_Index.exe
+E:\Game\Programming_Code\Body_Mass_Index\Body_Mass_Index\bin\Debug\Body_Mass_Index.pdb
+E:\Game\Programming_Code\Body_Mass_Index\Body_Mass_Index\obj\Debug\Body_Mass_Index.csproj.AssemblyReference.cache
+E:\Game\Programming_Code\Body_Mass_Index\Body_Mass_Index\obj\Debug\Body_Mass_Index.Form1.resources
+E:\Game\Programming_Code\Body_Mass_Index\Body_Mass_Index\obj\Debug\Body_Mass_Index.Properties.Resources.resources
+E:\Game\Programming_Code\Body_Mass_Index\Body_Mass_Index\obj\Debug\Body_Mass_Index.csproj.GenerateResource.cache
+E:\Game\Programming_Code\Body_Mass_Index\Body_Mass_Index\obj\Debug\Body_Mass_Index.csproj.CoreCompileInputs.cache
+E:\Game\Programming_Code\Body_Mass_Index\Body_Mass_Index\obj\Debug\Body_Mass_Index.exe
+E:\Game\Programming_Code\Body_Mass_Index\Body_Mass_Index\obj\Debug\Body_Mass_Index.pdb
